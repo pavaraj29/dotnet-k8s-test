@@ -1,1 +1,1 @@
-# dotnet-k8s-test
+# DotNet-core-app-to-Kubernetes
